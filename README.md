@@ -40,9 +40,9 @@ sesudah:
 ![Alt Text](https://github.com/amngllo/redesign/blob/main/BERKSHIRE%20HATHAWAY%20INC/gambar/12.png)
 
 Nah setelah saya redesign web ini yang awalnya seperti ini
-![Alt Text](https://github.com/amngllo/redesign/blob/main/BERKSHIRE%20HATHAWAY%20INC/gambar/13.png)
+![Alt Text](https://github.com/amngllo/redesign/blob/main/BERKSHIRE%20HATHAWAY%20INC/gambar/14.png)
 
 menjadi seperti di bawah ini
-![Alt Text](https://github.com/amngllo/redesign/blob/main/BERKSHIRE%20HATHAWAY%20INC/gambar/14.png)
+![Alt Text](https://github.com/amngllo/redesign/blob/main/BERKSHIRE%20HATHAWAY%20INC/gambar/13.png))
 
 
